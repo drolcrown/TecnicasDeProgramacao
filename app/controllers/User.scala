@@ -10,7 +10,7 @@ import javax.persistence._
 @Id
 @Table(name = "User")
 class User {
-
+//sdads
   @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
   var id : Int = _
